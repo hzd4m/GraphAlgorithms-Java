@@ -17,7 +17,7 @@ Essas obras guiaram tanto a modelagem orientada a objetos quanto a implementaç�
 ## 🎯 Objetivos
 
 - Implementar múltiplos algoritmos em um único programa Java, via menu interativo.
-- Permitir entrada de grafos via definição interna ou leitura de arquivo `.txt`.
+- Permitir entrada de grafos via definição interna.
 - Praticar estruturas de dados avançadas aplicadas a grafos.
 - Desenvolver modularização e reutilização de código orientado a objetos.
 
